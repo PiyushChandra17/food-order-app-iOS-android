@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "Zaayka",
+    "slug": "Zaayka",
+    "version": "0.0.1",
+    "orientation": "portrait",
+    "icon": "./assets/iconz.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.piyush.js.Zaayka"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/iconz.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.piyush.js.Zaayka"
+    }
+  }
+}
